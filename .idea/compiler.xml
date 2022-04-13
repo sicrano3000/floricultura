@@ -13,10 +13,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="config-server" target="11" />
-      <module name="eureka-server" target="11" />
-      <module name="fornecedor" target="11" />
-      <module name="loja" target="11" />
+      <module name="config-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="fornecedor" target="1.8" />
+      <module name="loja" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
