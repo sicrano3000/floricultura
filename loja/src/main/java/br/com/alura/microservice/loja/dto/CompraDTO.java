@@ -24,5 +24,4 @@ public class CompraDTO {
 		this.endereco = endereco;
 	}
 	
-	
 }
